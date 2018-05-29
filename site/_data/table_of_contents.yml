@@ -1,0 +1,26 @@
+- title: Index
+  page: /
+
+- title: Basics
+  page: /basics/
+
+- title: Integers
+  page: /integers/
+
+- title: String Arguments
+  page: /string_arguments/
+
+- title: String Return Values
+  page: /string_return/
+
+- title: Slice Arguments
+  page: /slice_arguments/
+
+- title: Tuples
+  page: /tuples/
+
+- title: Objects
+  page: /objects/
+
+- title: Contributors
+  page: /contributors/
